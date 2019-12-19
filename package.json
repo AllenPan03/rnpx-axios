@@ -36,7 +36,6 @@
   },
   "typings": "./index.d.ts",
   "dependencies": {
-    "antd-mobile": "^2.3.1",
     "qs": "^6.9.1"
   }
 }
